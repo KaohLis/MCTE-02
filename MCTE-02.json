@@ -1,0 +1,581 @@
+[
+{"name":"flare.DA Equipment.cluster.E1-DA-01, IVIS", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps","flare.Electrical.cluster.250 VA", "flare.Electrical.cluster.50/60 Hz",
+    "flare.Services.cluster.VAC"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-01a", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-01b", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-02 Scale", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C",
+    "flare.Electrical.cluster.11 Volts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-03 Vacuum", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.11 Volts", "flare.Electrical.cluster.10 Amps", "flare.Electrical.cluster.50/60 Hz",
+    "flare.Services.cluster.VAC"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-04 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-3 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-05 Orbital Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-06 Real Time PCR System", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.10 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.725 Watts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-07 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.10 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.30 Watts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-08 Flow Cytometer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.10 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-09 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.13 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-010 Ultrasonic Cleaner", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.117 Volts", "flare.Electrical.cluster.4-2 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.495 Watts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-011 Water Bath",  "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4-2 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.495 Watts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-012 Zeta Potential Analyzer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-013 Microplate Reader", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-014 Micorplate Reader", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-015 Water Bath", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-016 Water Bath", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-017 Inverted Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-018 Inverted Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-019 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.208 Volts", "flare.Electrical.cluster.9 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020 Inverted Microscope (with Incubation Chamber)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020a Flourescence Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020b Heating Unit", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020c Digital Imager", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020d Temperature Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-2 Amps"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020e CO2 Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-020f Camera Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-021 UC Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-022 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-023 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-024 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-025 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-026 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-027 Water Jacketed CO2 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-028 Bio Safety Cabinet", "size":3812,"imports":
+  ["flare.Room.cluster.Room 368C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.10 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029 Atomic Force Microscope with Enclosure", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029a Power Supply", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029b High Intensity Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029c Vibration Isolation Control Unit", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029d SPM Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.DA Equipment.cluster.E1-DA-029ce Environmental Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-01 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.9-5 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-02 Printer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-03 Balance", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-04 Balance", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-05 -20 Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4-3 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-06 Surface Plasmon Resonance System", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.6 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-07 Water Polisher", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-08 UV/UF Ultrapure Water Polisher", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.100 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-09 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.15 Amps", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.1300 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-10 Balance", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-11 Refrigerator / Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-8 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-12 Printer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-13 Water Bath", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+      "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.2-5 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-14 Micropipette Puller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-15 Microscope (for microforging)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-15a Microforge", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16 Fixed Storage Upright Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+    "flare.Services.cluster.N2", "flare.Services.cluster.O2"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16a Electronic Microinjector", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2-5 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.40 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16b Amplifier", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.30 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16c Data Acquisition System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.30 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16d Motorized Controller Unit", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-5 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.100 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16e Hand Switch", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16f Motorized Micromanipulator System / Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16g Motorized Mircomanipulator System / Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16h Smart Shutter Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16i Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+      "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.300 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-16j Cell Simulator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-17 IVIS", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6 Amps", "flare.Services.cluster.O2"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-17a Gas Anesthesia System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-18 UC Refrigerator / Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-19 Inverted Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-20 Water Bath", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.9 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-21 Laminar Flow BSC (Class II, Type A2)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.14 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-22 CO2 Incubator (water jacketed)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.1100 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-23 Co2 Incubator (water jacketed)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.1100 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-24 Cryogenic Storage Vessel", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-25 -80 Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.16 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26 PTI Fluoromter Set Up", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26a Sample Chamber", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26b Photomultiplier Detection System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26c Lamp Housing", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26d Lanp Power Supply", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26e Magnetic Stirrer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26f Temperature Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.1 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26g Motor Driver", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2 Amps"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26h Shutter Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-26i Data Acquisition Interface", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-27 Particle Size Analyzer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.300 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-28 Nanospinner", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.220 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-29 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.5-3 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.800 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-30 Printer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-31 Micro Gel Imaging System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.15 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.300 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-32 Power Supply", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-33 Power Supply", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2-8 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-34 Dissection Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-34a Boom Stand", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-34b Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 363C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-35 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.0-5 Amps"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-36 Multi-mode Microplate Reader", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-37 Vibrating Microtome", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.2 Amps"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-38 Multi-Mode Microplate Reader", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-5 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-39 Microwave", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-40 Electro Cell Manipulator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-41 Sonicator Enclosure", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-42 Digital Sonifier", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-43 Rotaroy Evaporator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44 Confocal Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C", "flare.Services.cluster.CA", "flare.Services.cluster.VAC"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44a Laser Scanning Module", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.7 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44b Photomultiplier Tube", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44c Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44d Micromanipulator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44e Micromanipulator Joystick Control", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44f Power Supply", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.100 Watts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44g Drift Compensator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.HC Equipment.cluster.E1-HC-44h Illuminator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 365C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.310 Watts"]},
+
+{"name":"flare.KZ Equipment.cluster.E1-KZ-01 Biosafety Cabinet (4 Foot Class 2 Type A2)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-02 Incubator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.3-6 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz", "flare.Services.cluster.CO2"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-03 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6-5 Amps"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-04 Cry Storage Dewar", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-05 Microscope", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-06 Water Bath", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C",
+    "flare.Electrical.cluster.115 Volts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-07 Oven", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.6-7 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-08 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.4-4 Amps", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.380 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-09 Plasma Cleaner", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.1-5 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-10 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-11 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.0-6 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-12 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.1-6 Amps"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-13 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.1-6 Amps"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-14 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.1-5 Amps", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.400 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-15 Image Analysis System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.3 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-16 PCR", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-17 Particle Characterization System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.2 Amps", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.150 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-18 Spectrophotometer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.12 Volts", "flare.Electrical.cluster.30 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-19 MALDI-TOF System", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.3 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-20 Microplate Reader", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.250 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-21 Floresence Spectrophotometer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.180 VA", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-21a Single Cell Peltier Accessory", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.150 VA", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-22 Blotting Transfer System", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6-3 Amps", "flare.Electrical.cluster.276 VA", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-23 Water Polisher", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.100 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-24 Shaker", "size":3812,"imports":
+  ["flare.Room.cluster.Room 367C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-25 Solvent Cabinet", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-26 Scale", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-27 Scale", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-28 Gas Purifying Glovebox", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.110 Volts", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz", "flare.Electrical.cluster.1000 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-29 Vacuum Pump", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.6-9 Amps", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.550 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-30 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.15 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-31 Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.1 PH"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-32 Rotary Evaporator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-33 Rotary Evaporator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-34 Printer"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-35 Printer"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-36 Printer"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-37 Printer"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-37a"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-38 UV-Vis Spectrophotometer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.300 VA", "flare.Electrical.cluster.47/63 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-39 Vacum Concentrator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.12 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-40 Utility Oven", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-41 Freeze Dry System (Iyopholizer)", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.16 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-41a Vacuum Pump", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-41b Vacuum Pump", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-42 +4 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-43 +4 Refrigerator", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.5 Amps", "flare.Electrical.cluster.60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-44 Liquid Chromotography System", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.500 VA", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-44a Dual Light Scattering Detector", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.0-8 Amps", "flare.Electrical.cluster.50/60 Hz"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-45 UC Freezer", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-46 HPLC (Binary Pump)", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-46a Photodiode Array (PDA) Detector", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-46b Refractive Index Detector", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-47 Centrifuge", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.12 Amps", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.1300 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-48 HPLC (Binary Pump)", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-48a Photodiode Array (PDA) Detector", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-49 Oven", "size":3812,"imports":
+  ["flare.Room.cluster.Room 371C",
+    "flare.Electrical.cluster.120 Volts", "flare.Electrical.cluster.1 PH", "flare.Electrical.cluster.60 Hz", "flare.Electrical.cluster.750 Watts"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-50 HPLC (Binary Pump)", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-50a Photodiode Array (PDA) Detector", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-51 Rotary Evaporator", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-51a Vacuum Controller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-51b Heating Path", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-51c Vacuum Pump", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-51d Chiller", "size":3812,"imports":
+  ["flare.Room.cluster.Room 369C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-52 Solven Cabinet", "size":3812,"imports":
+  ["flare.Room.cluster.Room 372C"]},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-52a LN2 Dewar"},
+{"name":"flare.KZ Equipment.cluster.E1-KZ-52b LN2 Dewar"},
+
+{"name":"flare.Room.cluster.Room 362C"},
+{"name":"flare.Room.cluster.Room 363C"},
+{"name":"flare.Room.cluster.Room 364C"},
+{"name":"flare.Room.cluster.Room 365C"},
+{"name":"flare.Room.cluster.Room 366C"},
+{"name":"flare.Room.cluster.Room 367C"},
+{"name":"flare.Room.cluster.Room 368C"},
+{"name":"flare.Room.cluster.Room 369C"},
+{"name":"flare.Room.cluster.Room 370C"},
+{"name":"flare.Room.cluster.Room 371C"},
+{"name":"flare.Room.cluster.Room 372C"},
+{"name":"flare.Room.cluster.Room 373C"},
+{"name":"flare.Room.cluster.Open Lab"},
+
+{"name":"flare.Electrical.cluster.11 Volts"},
+{"name":"flare.Electrical.cluster.12 Volts"},
+{"name":"flare.Electrical.cluster.110 Volts"},
+{"name":"flare.Electrical.cluster.115 Volts"},
+{"name":"flare.Electrical.cluster.117 Volts"},
+{"name":"flare.Electrical.cluster.120 Volts"},
+{"name":"flare.Electrical.cluster.208 Volts"},
+{"name":"flare.Electrical.cluster.220 Volts"},
+{"name":"flare.Electrical.cluster.0-5 Amps"},
+{"name":"flare.Electrical.cluster.0-6 Amps"},
+{"name":"flare.Electrical.cluster.0-8 Amps"},
+{"name":"flare.Electrical.cluster.1 Amps"},
+{"name":"flare.Electrical.cluster.1-5 Amps"},
+{"name":"flare.Electrical.cluster.1-6 Amps"},
+{"name":"flare.Electrical.cluster.2 Amps"},
+{"name":"flare.Electrical.cluster.2-5 Amps"},
+{"name":"flare.Electrical.cluster.2-8 Amps"},
+{"name":"flare.Electrical.cluster.3 Amps"},
+{"name":"flare.Electrical.cluster.3-2 Amps"},
+{"name":"flare.Electrical.cluster.3-3 Amps"},
+{"name":"flare.Electrical.cluster.3-5 Amps"},
+{"name":"flare.Electrical.cluster.3-6 Amps"},
+{"name":"flare.Electrical.cluster.3-8 Amps"},
+{"name":"flare.Electrical.cluster.4 Amps"},
+{"name":"flare.Electrical.cluster.4-2 Amps"},
+{"name":"flare.Electrical.cluster.4-3 Amps"},
+{"name":"flare.Electrical.cluster.4-4 Amps"},
+{"name":"flare.Electrical.cluster.5 Amps"},
+{"name":"flare.Electrical.cluster.5-3 Amps"},
+{"name":"flare.Electrical.cluster.6 Amps"},
+{"name":"flare.Electrical.cluster.6-3 Amps"},
+{"name":"flare.Electrical.cluster.6-5 Amps"},
+{"name":"flare.Electrical.cluster.6-7 Amps"},
+{"name":"flare.Electrical.cluster.6-9 Amps"},
+{"name":"flare.Electrical.cluster.7 Amps"},
+{"name":"flare.Electrical.cluster.9 Amps"},
+{"name":"flare.Electrical.cluster.9-5 Amps"},
+{"name":"flare.Electrical.cluster.10 Amps"},
+{"name":"flare.Electrical.cluster.12 Amps"},
+{"name":"flare.Electrical.cluster.13 Amps"},
+{"name":"flare.Electrical.cluster.14 Amps"},
+{"name":"flare.Electrical.cluster.15 Amps"},
+{"name":"flare.Electrical.cluster.16 Amps"},
+{"name":"flare.Electrical.cluster.150 VA"},
+{"name":"flare.Electrical.cluster.180 VA"},
+{"name":"flare.Electrical.cluster.250 VA"},
+{"name":"flare.Electrical.cluster.276 VA"},
+{"name":"flare.Electrical.cluster.300 VA"},
+{"name":"flare.Electrical.cluster.500 VA"},
+{"name":"flare.Electrical.cluster.1 PH"},
+{"name":"flare.Electrical.cluster.47/63 Hz"},
+{"name":"flare.Electrical.cluster.50/60 Hz"},
+{"name":"flare.Electrical.cluster.6 Watts"},
+{"name":"flare.Electrical.cluster.60 Hz"},
+{"name":"flare.Electrical.cluster.30 Watts"},
+{"name":"flare.Electrical.cluster.40 Watts"},
+{"name":"flare.Electrical.cluster.100 Watts"},
+{"name":"flare.Electrical.cluster.150 Watts"},
+{"name":"flare.Electrical.cluster.250 Watts"},
+{"name":"flare.Electrical.cluster.300 Watts"},
+{"name":"flare.Electrical.cluster.310 Watts"},
+{"name":"flare.Electrical.cluster.380 Watts"},
+{"name":"flare.Electrical.cluster.400 Watts"},
+{"name":"flare.Electrical.cluster.495 Watts"},
+{"name":"flare.Electrical.cluster.550 Watts"},
+{"name":"flare.Electrical.cluster.725 Watts"},
+{"name":"flare.Electrical.cluster.750 Watts"},
+{"name":"flare.Electrical.cluster.800 Watts"},
+{"name":"flare.Electrical.cluster.1000 Watts"},
+{"name":"flare.Electrical.cluster.1100 Watts"},
+{"name":"flare.Electrical.cluster.1300 Watts"},
+
+{"name":"flare.Services.cluster.CW"},
+{"name":"flare.Services.cluster.HW"},
+{"name":"flare.Services.cluster.TW"},
+{"name":"flare.Services.cluster.PCHW"},
+{"name":"flare.Services.cluster.CA"},
+{"name":"flare.Services.cluster.VAC"},
+{"name":"flare.Services.cluster.N2"},
+{"name":"flare.Services.cluster.HE"},
+{"name":"flare.Services.cluster.Gas"},
+{"name":"flare.Services.cluster.O2"},
+{"name":"flare.Services.cluster.CO2"},
+{"name":"flare.Services.cluster.Other"}
+]
